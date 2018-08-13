@@ -1,0 +1,7 @@
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ChristmasCardGenerator.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ChristmasCardGenerator.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ChristmasCardGenerator.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ChristmasCardGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ChristmasCardGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ChristmasCardGenerator.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ChristmasCardGenerator.pdb
